@@ -8,20 +8,20 @@ Currently, it features a working UX with **mock data for 'Real Madrid'**.
 
 ### Files
 
-*   `index.html`: The main HTML file containing the structure of the application.
-*   `style.css`: Contains the CSS styles for the application.
-*   `script.js`: Contains the JavaScript logic, including the mock data for 'Real Madrid'.
+*   `football-schedule-retriever-app/index.html`: The main HTML file containing the structure of the application.
+*   `football-schedule-retriever-app/style.css`: Contains the CSS styles for the application.
+*   `football-schedule-retriever-app/script.js`: Contains the JavaScript logic, including the mock data for 'Real Madrid'.
 
 ### How to Run and Test
 
-1.  **Ensure all files are in the same directory:**
+1.  **Navigate to the `football-schedule-retriever-app` directory.**
+2.  **Ensure the following files are present in this directory:**
     *   `index.html`
     *   `style.css`
     *   `script.js`
-2.  **Open `index.html` in a web browser:**
-    *   Navigate to the directory where you saved the files.
-    *   Double-click on `index.html`, or right-click and choose "Open with" your preferred web browser (e.g., Chrome, Firefox, Safari, Edge).
-3.  **Test the application:**
+3.  **Open `index.html` (located in `football-schedule-retriever-app/`) in a web browser:**
+    *   From within the `football-schedule-retriever-app` directory, double-click on `index.html`, or right-click and choose "Open with" your preferred web browser (e.g., Chrome, Firefox, Safari, Edge).
+4.  **Test the application:**
     *   The page should display a heading "Football Team Schedule Finder", an input field, and a "Search" button.
     *   **To see the mock data for Real Madrid:**
         *   Leave the input field empty and click "Search".
